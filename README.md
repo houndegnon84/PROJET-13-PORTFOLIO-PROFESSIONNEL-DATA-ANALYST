@@ -1,36 +1,20 @@
 # Portfolio Data Analyst – Projet Aéroworld
 
-## Contexte du projet
+Portfolio orienté vers la candidature de Chef de projet data analyst pour Aéroworld, une entreprise de conception, développement, fabrication et maintenance d'avions. Le portfolio comprend :
 
-Ce projet a été réalisé dans le cadre d’un exercice de gestion de projet data pour l’entreprise fictive **Aéroworld**.
-
-L’objectif était de concevoir un portfolio démontrant des compétences en :
-- analyse des besoins métier
-- veille technologique
-- visualisation de données
-- gestion de projet data
-
-## Objectifs
-
-- Identifier les besoins data de l’entreprise
-- Réaliser une veille technologique sur les outils data
-- Concevoir des dashboards interactifs
-- Proposer des opportunités stratégiques pour Aéroworld
-
-## Livrables
-
-- Analyse des besoins métier
-- Cahier des charges fonctionnel
-- Diagramme de Gantt du projet
-- Dashboard Profil (Power BI)
-- Dashboard Veille stratégique (Power BI)
-- Vidéo et tutoriel de formation Power BI
-
-## Outils utilisés
-
-- Power BI
-- Excel
-- GitHub
-- YouTube (vidéo non répertoriée)
+##Un Dashboard Profil présentant mon parcours, mes compétences ainsi que des projets data
 
 
+
+## Dashboard Veille stratégique orienté sur les outils et technologies actuelles data
+
+
+
+## Un tutoriel de formation sur la création de graphique dans Power BI (vidéo + documentation)
+
+
+
+## Un diagramme de Gantt présentant le planning d'élaboration du portfolio
+
+
+## De la documentation sur l'analyse des besoins métier et le cahier des charges fonctionnel

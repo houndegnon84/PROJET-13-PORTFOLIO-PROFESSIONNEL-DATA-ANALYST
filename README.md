@@ -6,4 +6,5 @@ Portfolio orienté vers la candidature au poste de Chef de projet data analyst p
 - Un Dashboard Veille stratégique orienté sur les outils et technologies actuelles data
 - Un tutoriel de formation sur la création de graphique dans Power BI (vidéo + documentation)
 - Un diagramme de Gantt présentant le planning d'élaboration du portfolio
-- De la documentation sur l'analyse des besoins métier et le cahier des charges fonctionnel
+- L'analyse des besoins métier
+- Le cahier des charges fonctionnel

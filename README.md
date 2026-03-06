@@ -24,7 +24,6 @@ L’objectif était de concevoir un portfolio démontrant des compétences en :
 - Diagramme de Gantt du projet
 - Dashboard Profil (Power BI)
 - Dashboard Veille stratégique (Power BI)
-- Documentation projet
 - Vidéo et tutoriel de formation Power BI
 
 ## Outils utilisés

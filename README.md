@@ -2,11 +2,11 @@
 
 Portfolio orienté vers la candidature de Chef de projet data analyst pour Aéroworld, une entreprise de conception, développement, fabrication et maintenance d'avions. Le portfolio comprend :
 
-##Un Dashboard Profil présentant mon parcours, mes compétences ainsi que des projets data
+## Un Dashboard Profil présentant mon parcours, mes compétences ainsi que mes projets data
 
 
 
-## Dashboard Veille stratégique orienté sur les outils et technologies actuelles data
+## Un Dashboard Veille stratégique orienté sur les outils et technologies actuelles data
 
 
 

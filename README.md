@@ -34,4 +34,4 @@ L’objectif était de concevoir un portfolio démontrant des compétences en :
 - GitHub
 - YouTube (vidéo non répertoriée)
 
-## Structure du projet
+
